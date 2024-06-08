@@ -1,0 +1,14 @@
+.nav__upper .upper__right{
+    display: inline-block;
+}
+ .upper__right{
+margin-left: 970px;
+
+ }
+ .nav__upper{
+    width: fit-content;
+ }
+ /* .header {
+
+   flex-wrap: wrap;
+ } */
