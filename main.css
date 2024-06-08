@@ -1,14 +1,52 @@
 .nav__upper .upper__right{
     display: inline-block;
+    margin-bottom: 15px;
 }
  .upper__right{
 margin-left: 970px;
-
+/* position: relative; */
  }
- .nav__upper{
-    width: fit-content;
- }
- /* .header {
 
-   flex-wrap: wrap;
- } */
+ .sign-in{
+    text-decoration: none;
+    color: green;
+    /* position: relative; */
+    margin-right: 10px;
+ }
+.get-started{
+border: 1px solid green;
+border-radius: 5px;
+padding: 8px;
+
+text-decoration: none;
+color: green
+
+}
+
+.nav__lower >a{
+text-decoration: none;
+margin-left: 60px;
+margin-top: 15px;
+
+}
+.nav__lower{
+    text-align: center;
+
+}
+
+
+.content{
+    text-align: center;
+    width: 570px;
+    margin-left: 400px;
+    /* flex-wrap: wrap; */
+    position: relative;
+}
+h2{
+    position: relative;
+    right: 200px;
+}
+p{
+    width: 600px;
+    display: inline;
+}
